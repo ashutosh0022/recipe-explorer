@@ -26,13 +26,13 @@ Culinary Explorer is a responsive web application that helps users discover reci
 
 ## 📱 Screenshots
 
-![Home Page](./images/home.png)
+![Home Page](./images/home.PNG)
 *Home page with search interface and filters*
 
-![Recipe Results](./images/search.png)
+![Recipe Results](./images/search.PNG)
 *Recipe search results displayed as cards*
 
-![Recipe Details](./images/detail.png)
+![Recipe Details](./images/detail.PNG)
 *Detailed recipe view with ingredients and instructions*
 
 ## 🚀 Live Demo
